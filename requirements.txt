@@ -8,5 +8,5 @@ transformers==4.8.2
 bert-extractive-summarizer==0.7.1
 nltk==3.6.2
 sentencepiece==0.1.96
-https://download.pytorch.org/whl/cpu/torch-1.8.1%2Bcpu-cp36-cp36m-win_amd64.whl
+https://download.pytorch.org/whl/cpu/cpu/torch-1.9.0%2Bcpu-cp39-cp39-win_amd64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.9.1%2Bcpu-cp39-cp39-win_amd64.whl

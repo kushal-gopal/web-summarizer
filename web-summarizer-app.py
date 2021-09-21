@@ -71,8 +71,8 @@ st.write("""
 """)
 
 
-GPT2_model = TransformerSummarizer(transformer_type="GPT2", transformer_model_key="gpt2-medium")
-summary_gpt2 = ''.join(GPT2_model(article.text, min_length=60))
+#GPT2_model = TransformerSummarizer(transformer_type="GPT2", transformer_model_key="gpt2-medium")
+#summary_gpt2 = ''.join(GPT2_model(article.text, min_length=60))
 
-st.header('Article Summary with GPT-2 Model')
-summary_gpt2
+#st.header('Article Summary with GPT-2 Model')
+#summary_gpt2
